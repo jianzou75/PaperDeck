@@ -50,7 +50,7 @@ PaperDeck is built for bench scientists and computational researchers who prepar
 
 If you find PaperDeck useful in your research workflow, we would appreciate an acknowledgement in your publication. For example:
 
-> Manuscript figures were organized using PaperDeck (https://github.com/YOUR_USERNAME/PaperDeck).
+> Manuscript figures were organized using PaperDeck (https://github.com/jianzou75/PaperDeck/).
 
 ---
 
